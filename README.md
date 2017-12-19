@@ -1,4 +1,4 @@
-# Project 3: Feature Selection + Classification
+# UCI Madelon Dataset: Feature Selection + Classification
 
 ### Data
 Demonstrate a capacity to identify relevant features using machine learning. 
@@ -54,3 +54,7 @@ Do substantive work on at least six subsets of the data.
 ##### Build Model
 - Implement final model
 
+##### Additional Items to Add (forthcoming):
+- ROC visualizations
+- comparative score visualizations for different classification pipelines
+- tune hyperparameters to improve accuracy/precision/recall and reduce logloss
