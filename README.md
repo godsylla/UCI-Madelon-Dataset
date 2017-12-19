@@ -8,10 +8,10 @@ Demonstrate a capacity to identify relevant features using machine learning.
 The Madelon Dataset does not have attribute information to avoid biasing feature selection.
 
 MADELON -- Positive ex. -- Negative ex. -- Total	
-Training set -- 1000 -- 1000 -- 2000	
-Validation set -- 300 -- 300 -- 600	
-Test set -- 900 -- 900 -- 1800	
-All -- 2200 -- 2200 -- 4400	
+- Training set -- 1000 -- 1000 -- 2000	
+- Validation set -- 300 -- 300 -- 600	
+- Test set -- 900 -- 900 -- 1800	
+- All -- 2200 -- 2200 -- 4400	
 
 Number of variables/features/attributes: 
 Real: 20 
